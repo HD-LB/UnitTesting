@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "nunit3-console", "nunit3-console.exe", "{23E330A6-20B9-43D3-978E-ECBAB33B7C07}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe
+		RemoteMachine = MIMI-SURFACE
+		StartingDirectory = C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\packages\NUnit.ConsoleRunner.3.10.0\tools
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E330A6-20B9-43D3-978E-ECBAB33B7C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9852093-09A6-4D2D-A513-A81ACFF608FF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TastManager.Models\bin\Debug\TastManager.Models.dll
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TastManager.Models\bin\Debug\TastManager.Models.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TastManager.Models\obj\Debug\TastManager.Models.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TastManager.Models\obj\Debug\TastManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TastManager.Models\obj\Debug\TastManager.Models.dll
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TastManager.Models\obj\Debug\TastManager.Models.pdb

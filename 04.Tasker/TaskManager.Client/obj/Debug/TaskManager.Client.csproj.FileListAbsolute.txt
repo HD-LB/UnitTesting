@@ -1,0 +1,10 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\bin\Debug\TastManager.Models.dll
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\bin\Debug\TastManager.Models.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csproj.CopyComplete
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\UnitTesting\04. Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.pdb

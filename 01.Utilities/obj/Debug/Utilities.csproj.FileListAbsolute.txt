@@ -1,0 +1,6 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\Utilities\bin\Debug\Utilities.dll
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\Utilities\bin\Debug\Utilities.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\Utilities\obj\Debug\Utilities.dll
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\Unit-Testing-Demos\Utilities\obj\Debug\Utilities.pdb
