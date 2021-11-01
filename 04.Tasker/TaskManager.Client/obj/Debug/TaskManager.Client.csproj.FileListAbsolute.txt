@@ -1,0 +1,10 @@
+C:\Sites\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csprojAssemblyReference.cache
+C:\Sites\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csproj.CoreCompileInputs.cache
+C:\Sites\Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.exe.config
+C:\Sites\Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.exe
+C:\Sites\Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.pdb
+C:\Sites\Tasker\TaskManager.Client\bin\Debug\TaskManager.Models.dll
+C:\Sites\Tasker\TaskManager.Client\bin\Debug\TaskManager.Models.pdb
+C:\Sites\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csproj.CopyComplete
+C:\Sites\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.exe
+C:\Sites\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.pdb

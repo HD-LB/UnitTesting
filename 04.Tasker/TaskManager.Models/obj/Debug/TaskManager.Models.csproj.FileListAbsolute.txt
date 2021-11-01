@@ -1,0 +1,6 @@
+C:\Sites\Tasker\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+C:\Sites\Tasker\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+C:\Sites\Tasker\TaskManager.Models\obj\Debug\TaskManager.Models.csprojAssemblyReference.cache
+C:\Sites\Tasker\TaskManager.Models\obj\Debug\TaskManager.Models.csproj.CoreCompileInputs.cache
+C:\Sites\Tasker\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+C:\Sites\Tasker\TaskManager.Models\obj\Debug\TaskManager.Models.pdb
